@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cube-gaming-store-back.props" />
+</Project>

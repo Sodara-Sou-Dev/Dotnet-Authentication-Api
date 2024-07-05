@@ -1,0 +1,6 @@
+@cube_gaming_store_back_HostAddress = http://localhost:5268
+
+GET {{cube_gaming_store_back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
